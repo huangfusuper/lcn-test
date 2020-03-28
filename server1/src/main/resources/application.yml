@@ -8,9 +8,9 @@ spring:
     allow-bean-definition-overriding: true
   datasource:
     driver-class-name:  com.mysql.jdbc.Driver
-    url: jdbc:mysql://101.132.168.240:3306/lcn-server1?useUnicode=true&characterEncoding=utf8
+    url: jdbc:mysql://127.0.0.1:3306/lcn-server1?useUnicode=true&characterEncoding=utf8
     username: root
-    password: HUANGfu0110..
+    password: 123456
 
 eureka:
   client:
